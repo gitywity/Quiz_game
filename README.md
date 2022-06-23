@@ -1,1 +1,1 @@
-Make sure to use capital letters at the start of every word and ingnore the "Add files via upload"
+Make sure to use capital letters at the start of every word and ignore the "Add files via upload"
